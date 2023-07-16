@@ -1,0 +1,23 @@
+{
+  "AdsController": {
+    "adNetwork": "unity",
+    "admobBanner": "",
+    "admobInterstitial": "",
+    "applovinBanner": "",
+    "applovinInterstitial": "",
+    "unityGameId": "999999999999",
+    "testMode": false,
+    "unityBanner": "Banner_Android",
+    "unityInterstitial": "Interstitial_Android",
+    "IMG1_URL": "https://app3-happygaming.netlify.app/native2.png",
+    "TEXT1_URL": "https://play.google.com/store/apps/details?id=",
+    "IMG2_URL": "https://app3-happygaming.netlify.app/native2.png",
+    "TEXT2_URL": "https://play.google.com/store/apps/details?id=",
+    "IMG3_URL": "https://app3-happygaming.netlify.app/native2.png",
+    "TEXT3_URL": "https://play.google.com/store/apps/details?id=",
+    "IMG4_URL": "https://app3-happygaming.netlify.app/native2.png",
+    "TEXT4_URL": "https://play.google.com/store/apps/details?id=",
+    "modeads": false,
+    "ratingActive": true
+  }
+}
